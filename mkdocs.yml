@@ -1,20 +1,15 @@
 site_name: COCREATE UNIVERSITY
 nav:
-  - Home: index.md
-  - Git: git/index.md
+    - Home: index.md
+    - Git: git/index.md
 theme:
-  name: material
-  font: false
+    name: material
+    font: false
+
 markdown_extensions:
-  - admonition
-  - footnotes
-  - codehilite
+    - admonition
+    - footnotes
+    - codehilite
 
 plugins:
-  - search
-  - mermaid2
-
-
-extra_javascript:
-    - https://unpkg.com/mermaid@8.5.0/dist/mermaid.min.js
-  
+    - search
