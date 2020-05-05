@@ -5,10 +5,10 @@
 
 ## Resources
 
-* [Commit Messages](/git/commit)
-* [Pull Requests](/git/pull-requests)
-* [Branching Strategy](/git/branching)
-* [Web Hooks](/git/web-hooks)
+* [Commit Messages]({{ site.baseurl }}/git/commit)
+* [Pull Requests]({{ site.baseurl }}/git/pull-requests)
+* [Branching Strategy]({{ site.baseurl }}/git/branching)
+* [Web Hooks]({{ site.baseurl }}/git/web-hooks)
 
 ## External Links
 
