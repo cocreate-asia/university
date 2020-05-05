@@ -1,15 +1,19 @@
 site_name: COCREATE UNIVERSITY
+site_url: https://cocreate-asia.github.io/university/
+
 nav:
-    - Home: index.md
-    - Git: git/index.md
+  - Home: index.md
+  - Git: git/index.md
+  - Commit: git/commit.md
+  
 theme:
-    name: material
-    font: false
+  name: material
+  font: false
 
 markdown_extensions:
-    - admonition
-    - footnotes
-    - codehilite
+  - admonition
+  - footnotes
+  - codehilite
 
 plugins:
-    - search
+  - search
