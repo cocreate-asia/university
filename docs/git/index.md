@@ -8,7 +8,7 @@
 * [Commit Messages](/university/git/commit)
 * [Pull Requests](/university/git/pull-requests)
 * [Branching Strategy](/university/git/branching)
-* [Web Hooks]({/university/git/web-hooks)
+* [Web Hooks](/university/git/web-hooks)
 
 ## External Links
 
